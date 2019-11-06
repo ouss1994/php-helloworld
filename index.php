@@ -4,7 +4,7 @@
  </head>
  <body>
   <?php
-  print "Hello World! php version is " . PHP_VERSION . "\n";
+  print "Hello OCP! php version is " . PHP_VERSION . "\n";
   ?>
   </body>
 </html>
